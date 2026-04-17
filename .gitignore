@@ -1,0 +1,36 @@
+# VS Code
+.vscode/
+*.code-workspace
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+*.swp
+*.swo
+
+# Archivos de sistema
+Thumbs.db
+.directory
+
+# Node (si se agrega en futuro)
+node_modules/
+package-lock.json
+npm-debug.log
+
+# Dependencias locales
+.env
+.env.local
+
+# Archivos temporales
+*.tmp
+*.temp
+.cache/
+
+# Compilados
+dist/
+build/
+
+# IDE
+.idea/
+*.iml
